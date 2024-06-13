@@ -29,7 +29,9 @@ Criação de um Chatbot de Recursos Humanos
 ChatGPT e DialogFlow
 
 ## 🧐 Processo de Criação
-Utilizei o seguinte prompt no ChatGPT: "Atue como especialista em IA Generativa e me auxilie com tópicos sobre como usar o DialogFlow para criar um chatbot de Recursos Humanos baseado em intenção".
+Utilizei o seguinte prompt no ChatGPT:
+"Atue como especialista em IA Generativa e me auxilie com tópicos sobre como usar o DialogFlow para criar um chatbot de Recursos Humanos baseado em intenção".
+
 Segui os passos listados pelo ChatGPT
 1. Configuração Inicial
 Criação da Conta
@@ -94,7 +96,8 @@ Monitore as interações dos usuários para identificar possíveis melhorias.
 Atualize e ajuste o chatbot conforme necessário para lidar com novas perguntas ou mudanças nas políticas de RH.
 
 ## 🚀 Resultados
-utilizando o passo a passo acima consegui configurar as intenções, as respostas (com frases de treinamento para que o Chatbot reconhecesse diversos padrões de perguntas) e ações, para que a resposta ocorresse uma maneira bem próxima do natural.
+utilizando o passo a passo acima consegui configurar as intenções, as respostas (com frases de treinamento para que o Chatbot reconhecesse diversos padrões de perguntas) e ações,
+para que a resposta ocorresse uma maneira bem próxima do natural.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
